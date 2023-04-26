@@ -89,7 +89,7 @@ const Gym = () => {
                     // <a href={item.web}>
                     <div key={index} className='border shadow-lg rounded-lg '>
                     {/* hover:scale-105 duration-300 讓上方div有動畫效果的 暫時拿掉一下*/}
-                        <img src={'/gym_img/' + item.image}  alt={item.name}
+                        <img src={process.env.PUBLIC_URL +  '/gym_img/' + item.image}  alt={item.name}
                         className='w-full h-[200px] object-cover rounded-t-lg'
                         />
                         <div className="py-4 px-2">
