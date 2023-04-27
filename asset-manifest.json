@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/climbing-gym-in-taiwan/static/css/main.f065cf14.css",
-    "main.js": "/climbing-gym-in-taiwan/static/js/main.2104bdbe.js",
+    "main.css": "/climbing-gym-in-taiwan/static/css/main.672a539a.css",
+    "main.js": "/climbing-gym-in-taiwan/static/js/main.9aa06964.js",
     "index.html": "/climbing-gym-in-taiwan/index.html",
-    "main.f065cf14.css.map": "/climbing-gym-in-taiwan/static/css/main.f065cf14.css.map",
-    "main.2104bdbe.js.map": "/climbing-gym-in-taiwan/static/js/main.2104bdbe.js.map"
+    "main.672a539a.css.map": "/climbing-gym-in-taiwan/static/css/main.672a539a.css.map",
+    "main.9aa06964.js.map": "/climbing-gym-in-taiwan/static/js/main.9aa06964.js.map"
   },
   "entrypoints": [
-    "static/css/main.f065cf14.css",
-    "static/js/main.2104bdbe.js"
+    "static/css/main.672a539a.css",
+    "static/js/main.9aa06964.js"
   ]
 }
