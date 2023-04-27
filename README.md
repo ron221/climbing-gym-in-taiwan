@@ -1,7 +1,3 @@
-
-
-Sure, I'd be happy to help you write a README file for your GitHub project.
-
 # Climbing Gym in Taiwan
 
 This project aims to collect and organize information about climbing gyms in Taiwan. The project is developed using React and Tailwind CSS. You can see the demo of the project on GitHub Pages at https://ron221.github.io/climbing-gym-in-taiwan/. Please note that the data is currently incomplete, but we are continuously adding more information.
